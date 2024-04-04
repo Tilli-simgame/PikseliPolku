@@ -50,11 +50,13 @@ You can combine these formatting options:
 
 Use numbers followed by a period for each item:
 
-`1. First item
+```
+1. First item
 2. Second item
 3. Third item
   - Indent items to create sublists
-  1. Sublist item`
+  1. Sublist item
+```
 
 ### Unordered List
 - First item
@@ -65,11 +67,13 @@ Use numbers followed by a period for each item:
    
 Use dashes (`-`), asterisks (`*`), or plus signs (`+`) for each item:
 
-`- First item
+```
+- First item
 - Second item
 - Third item
   - Indent items to create sublists
-    - Nested sublist item`
+    - Nested sublist item
+```
 
 ---
 
